@@ -1,4 +1,4 @@
-# Assignment3CV
+# CV Project
 # Competition details
 ![Sample image](https://github.com/MaazMohsin20/Assignment3CV/blob/main/image_1.png)
 ![Sample image](https://github.com/MaazMohsin20/Assignment3CV/blob/main/image_2.png)
